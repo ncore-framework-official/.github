@@ -1,11 +1,18 @@
-# NCore Framework — Organization Profile
+# NCore Framework — Official Public Organization Profile
 
-This repository contains the public GitHub organization profile for **NCore Framework**.
+This repository powers the public profile of **NCore Framework**.
 
-The rendered organization page is maintained in:
+Rendered organization profile:
 
 `profile/README.md`
 
-Official organization: https://github.com/ncore-framework-official
+Official organization:
 
-This repository is public by design and must not contain private development material, internal GDDs, qualification data, secrets, tokens, private infrastructure details or unpublished proprietary source code.
+https://github.com/ncore-framework-official
+
+## Public-only rule
+
+This repository and the organization are public by design. They must not contain private development material, internal GDDs, qualification data, secrets, tokens, private infrastructure details or unpublished proprietary source code.
+
+- Public support: [SUPPORT.md](SUPPORT.md)
+- Security reporting: [SECURITY.md](SECURITY.md)
