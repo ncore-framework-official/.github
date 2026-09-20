@@ -53,10 +53,6 @@ Your support directly helps fund development, documentation, testing and project
   <a href="https://github.com/ncore-framework-official"><strong>GitHub officiel</strong></a>
 </p>
 
-## Public / Private
-
-Cette organisation est **exclusivement publique**. Les dépôts privés de développement, GDD internes, qualifications, outils de build, secrets et sources propriétaires non publiées restent hors de cette organisation.
-
 <details>
 <summary><strong>NCore Loading Screen — identité visuelle officielle</strong></summary>
 
@@ -68,7 +64,3 @@ Ce visuel est publié uniquement comme **identité visuelle officielle**.
 Aucune publication publique du package NCore Loading Screen n'est annoncée par cette présentation.
 
 </details>
-
-## Socials
-
-**Discord:** https://discord.gg/Ey4dn4Cbqj · **Ko-fi:** https://ko-fi.com/ncoreframework
