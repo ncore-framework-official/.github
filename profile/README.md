@@ -67,7 +67,7 @@ Your support directly helps fund development, documentation, testing and project
 <summary><strong>NCore Loading Screen — identité visuelle officielle</strong></summary>
 
 <p align="center">
-  <img src="assets/branding/ncore-loading-screen-official.webp" alt="NCore Loading Screen official visual identity" width="840">
+  <img src="assets/branding/ncore-loading-screen-official.webp" alt="NCore Loading Screen official visual identity" width="460">
 </p>
 
 Ce visuel est présenté uniquement comme **identité visuelle officielle**.  
