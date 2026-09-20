@@ -2,6 +2,8 @@
 
 This page contains public branding materials explicitly approved for presentation by NCore Framework.
 
+All primary product visuals use the same **460 px GitHub presentation width**. Native source resolutions and aspect ratios are preserved.
+
 ## NCore Framework
 
 <p align="center">
@@ -17,7 +19,7 @@ This page contains public branding materials explicitly approved for presentatio
 ## NCore Loading Screen
 
 <p align="center">
-  <img src="profile/assets/branding/ncore-loading-screen-official.webp" alt="NCore Loading Screen official visual identity" width="1100">
+  <img src="profile/assets/branding/ncore-loading-screen-official.webp" alt="NCore Loading Screen official visual identity" width="460">
 </p>
 
 **Français :** ce visuel est l'identité visuelle officielle approuvée de NCore Loading Screen. Sa présence ici ne signifie pas que le package, son code ou une release publique est disponible.
