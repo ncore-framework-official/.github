@@ -33,6 +33,26 @@
 
 > Les autres packages NCore apparaîtront dans la liste GitHub de l'organisation uniquement après validation explicite de leur publication publique.
 
+## Support NCore Framework
+
+NCore Framework est développé et maintenu comme un projet indépendant pour **NANOS / nanos world**.  
+Votre soutien contribue directement au développement, à la documentation, aux tests et à l'infrastructure du projet.
+
+NCore Framework is developed and maintained as an independent project for **NANOS / nanos world**.  
+Your support directly helps fund development, documentation, testing and project infrastructure.
+
+<p align="center">
+  <a href="https://ko-fi.com/ncoreframework">
+    <img src="https://img.shields.io/badge/☕_Soutenir_NCore_sur_Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support NCore Framework on Ko-fi">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/Ey4dn4Cbqj"><strong>Discord officiel</strong></a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/ncore-framework-official"><strong>GitHub officiel</strong></a>
+</p>
+
 ## Public / Private
 
 Cette organisation est **exclusivement publique**. Les dépôts privés de développement, GDD internes, qualifications, outils de build, secrets et sources propriétaires non publiées restent hors de cette organisation.
