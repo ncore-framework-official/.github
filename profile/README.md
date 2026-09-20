@@ -5,64 +5,50 @@
 <h1 align="center">NCore Framework</h1>
 
 <p align="center">
-  <strong>Écosystème public officiel NCore pour NANOS / nanos world.</strong><br>
-  Official public NCore ecosystem for NANOS / nanos world.
+  <strong>Framework RP modulaire et outils officiels pour NANOS / nanos world.</strong><br>
+  Modular RP framework and official tools for NANOS / nanos world.
 </p>
 
 <p align="center">
   <a href="https://github.com/ncore-framework-official/ncore-control">
     <img src="https://img.shields.io/badge/NCore_Control-1.0.0-17C0E4?style=for-the-badge" alt="NCore Control 1.0.0">
   </a>
-  <a href="https://github.com/ncore-framework-official/ncore-control/releases/download/control-v1.0.0/NCore-Control-Setup-1.0.0.exe">
-    <img src="https://img.shields.io/badge/Télécharger-Windows-2F81F7?style=for-the-badge&logo=windows&logoColor=white" alt="Télécharger NCore Control">
+  <a href="https://github.com/ncore-framework-official/ncore-control/releases/tag/control-v1.0.0">
+    <img src="https://img.shields.io/badge/Release-1.0.0-2EA043?style=for-the-badge" alt="NCore Control Release 1.0.0">
   </a>
   <a href="https://discord.gg/Ey4dn4Cbqj">
     <img src="https://img.shields.io/badge/Discord-Officiel-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord officiel">
   </a>
   <a href="https://ko-fi.com/ncoreframework">
-    <img src="https://img.shields.io/badge/Soutenir-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Soutenir NCore Framework">
+    <img src="https://img.shields.io/badge/Support-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support NCore Framework">
   </a>
 </p>
 
----
+## Directory
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- **[NCore Control](https://github.com/ncore-framework-official/ncore-control)** — application Windows officielle pour installer et gérer plusieurs serveurs NANOS / nanos world.
+- **[NCore Control Releases](https://github.com/ncore-framework-official/ncore-control/releases)** — téléchargements publics officiels.
+- **[Documentation produit NCore Control](https://github.com/ncore-framework-official/ncore-control#readme)** — installation, multi-serveur, mises à jour, SHA-256, support et sécurité.
+- **[Discord officiel](https://discord.gg/Ey4dn4Cbqj)** — communauté et support public.
 
-### NCore Control
+> Les autres packages NCore apparaîtront dans la liste GitHub de l'organisation uniquement après validation explicite de leur publication publique.
 
-Application Windows officielle pour installer et gérer plusieurs serveurs NANOS / nanos world.
+## Public / Private
 
-**Version publique : 1.0.0**
+Cette organisation est **exclusivement publique**. Les dépôts privés de développement, GDD internes, qualifications, outils de build, secrets et sources propriétaires non publiées restent hors de cette organisation.
 
-- installation d'un serveur NANOS standard ;
-- plusieurs instances indépendantes ;
-- démarrage / arrêt des serveurs ;
-- raccourcis Bureau dédiés ;
-- canal de mise à jour intégré.
-
-**[Page produit](https://github.com/ncore-framework-official/ncore-control)** · **[Release 1.0.0](https://github.com/ncore-framework-official/ncore-control/releases/tag/control-v1.0.0)**
-
-</td>
-<td width="50%" valign="top">
-
-### NCore Framework
-
-Framework RP modulaire conçu pour NANOS / nanos world.
-
-Les packages officiels sont publiés ici progressivement lorsqu'ils sont validés pour distribution publique.
-
-**Public only:** this organization contains only approved public-safe NCore repositories and releases.
-
-</td>
-</tr>
-</table>
+<details>
+<summary><strong>NCore Loading Screen — identité visuelle officielle</strong></summary>
 
 <p align="center">
-  <strong>Discord :</strong> <a href="https://discord.gg/Ey4dn4Cbqj">discord.gg/Ey4dn4Cbqj</a>
-  &nbsp;•&nbsp;
-  <strong>Ko-fi :</strong> <a href="https://ko-fi.com/ncoreframework">ncoreframework</a>
+  <img src="assets/branding/ncore-loading-screen-official-preview.jpg" alt="NCore Loading Screen official visual identity" width="760">
 </p>
 
-> Le développement privé, les GDD internes, qualifications, outils de build, secrets et sources propriétaires non publiées restent hors de cette organisation.
+Ce visuel est publié uniquement comme **identité visuelle officielle**.  
+Aucune publication publique du package NCore Loading Screen n'est annoncée par cette présentation.
+
+</details>
+
+## Socials
+
+**Discord:** https://discord.gg/Ey4dn4Cbqj · **Ko-fi:** https://ko-fi.com/ncoreframework
