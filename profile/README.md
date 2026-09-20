@@ -13,8 +13,8 @@
   <a href="https://github.com/ncore-framework-official/ncore-control">
     <img src="https://img.shields.io/badge/NCore_Control-1.0.0-17C0E4?style=for-the-badge" alt="NCore Control 1.0.0">
   </a>
-  <a href="https://github.com/ncore-framework-official/ncore-loading-screen">
-    <img src="https://img.shields.io/badge/Loading_Screen-0.5.0-17C0E4?style=for-the-badge" alt="NCore Loading Screen 0.5.0">
+  <a href="https://github.com/boubeur/ncore-framework/releases/download/control-v1.0.0/NCore-Control-Setup-1.0.0.exe">
+    <img src="https://img.shields.io/badge/Télécharger-Windows-2F81F7?style=for-the-badge&logo=windows&logoColor=white" alt="Télécharger NCore Control">
   </a>
   <a href="https://discord.gg/Ey4dn4Cbqj">
     <img src="https://img.shields.io/badge/Discord-Officiel-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord officiel">
@@ -36,24 +36,28 @@ Application Windows officielle pour installer et gérer plusieurs serveurs NANOS
 
 **Version publique : 1.0.0**
 
-**[Page produit](https://github.com/ncore-framework-official/ncore-control)** · **[Télécharger](https://github.com/boubeur/ncore-framework/releases/download/control-v1.0.0/NCore-Control-Setup-1.0.0.exe)**
+- installation d'un serveur NANOS standard ;
+- plusieurs instances indépendantes ;
+- démarrage / arrêt des serveurs ;
+- raccourcis Bureau dédiés ;
+- canal de mise à jour intégré.
+
+**[Page produit](https://github.com/ncore-framework-official/ncore-control)** · **[Release 1.0.0](https://github.com/boubeur/ncore-framework/releases/tag/control-v1.0.0)**
 
 </td>
 <td width="50%" valign="top">
 
-### NCore Loading Screen
+### NCore Framework
 
-Loading screen officiel NCore pour NANOS, autonome et sans dépendance à `ncore-core`.
+Framework RP modulaire conçu pour NANOS / nanos world.
 
-**Version publique : 0.5.0**
+Les packages officiels sont publiés ici progressivement lorsqu'ils sont validés pour distribution publique.
 
-**[Dépôt public](https://github.com/ncore-framework-official/ncore-loading-screen)** · Vault/Store après qualification finale
+**Public only:** this organization contains only approved public-safe NCore repositories and releases.
 
 </td>
 </tr>
 </table>
-
-**NCore Framework** est un framework RP modulaire conçu spécifiquement pour NANOS / nanos world. Les packages officiels apparaissent dans cette organisation uniquement lorsqu'ils sont validés pour publication publique.
 
 <p align="center">
   <strong>Discord :</strong> <a href="https://discord.gg/Ey4dn4Cbqj">discord.gg/Ey4dn4Cbqj</a>
@@ -61,4 +65,4 @@ Loading screen officiel NCore pour NANOS, autonome et sans dépendance à `ncore
   <strong>Ko-fi :</strong> <a href="https://ko-fi.com/ncoreframework">ncoreframework</a>
 </p>
 
-> **Public only.** Le développement privé, les GDD internes, qualifications, outils de build, secrets et sources propriétaires non publiées restent hors de cette organisation.
+> Le développement privé, les GDD internes, qualifications, outils de build, secrets et sources propriétaires non publiées restent hors de cette organisation.
