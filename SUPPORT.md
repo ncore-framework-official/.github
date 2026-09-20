@@ -8,6 +8,7 @@ Pour l'aide publique, les annonces et les échanges avec la communauté NCore :
 - **Organisation GitHub officielle :** https://github.com/ncore-framework-official
 - **NCore Control :** https://github.com/ncore-framework-official/ncore-control
 - **Releases NCore Control :** https://github.com/ncore-framework-official/ncore-control/releases
+- **NCore Loading Screen :** https://github.com/ncore-framework-official/ncore-loading-screen
 
 Avant de signaler un problème public :
 
@@ -38,6 +39,7 @@ For public help, announcements and NCore community discussion:
 - **Official GitHub organization:** https://github.com/ncore-framework-official
 - **NCore Control:** https://github.com/ncore-framework-official/ncore-control
 - **NCore Control releases:** https://github.com/ncore-framework-official/ncore-control/releases
+- **NCore Loading Screen:** https://github.com/ncore-framework-official/ncore-loading-screen
 
 Before filing a public issue:
 
