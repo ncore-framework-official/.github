@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: NCore Discord — Public support
+    url: https://discord.gg/Ey4dn4Cbqj
+    about: Community support, public questions and announcements.
+  - name: Security report
+    url: https://discord.gg/Ey4dn4Cbqj
+    about: Request a private security contact channel. Do not publish vulnerabilities in a public issue.
