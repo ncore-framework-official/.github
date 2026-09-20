@@ -1,31 +1,45 @@
 # NCore Framework — Official Public GitHub Organization
 
-This repository contains the default public community and organization-profile files for **NCore Framework**.
-
-Official organization:
+This repository powers the official public GitHub organization profile for **NCore Framework**:
 
 https://github.com/ncore-framework-official
 
-## Role of this repository
+The rendered organization landing page is maintained in:
 
-- `profile/README.md` renders the public organization landing page.
-- `SUPPORT.md` defines the public support route.
-- `SECURITY.md` defines private security-reporting rules.
-- `CONTRIBUTING.md` defines contribution boundaries.
-- `CODE_OF_CONDUCT.md` defines community expectations.
-- `.github/ISSUE_TEMPLATE/` provides consistent issue forms for public repositories.
-- `PULL_REQUEST_TEMPLATE.md` provides a public-safe review checklist.
-- `.github/FUNDING.yml` exposes the official NCore Ko-fi link where GitHub supports it.
+`profile/README.md`
 
-## Public-only rule
+## Public-only organization
 
-The organization is public by design. It must not contain:
+`ncore-framework-official` is the exclusive namespace for newly approved official public NCore repositories, releases and public documentation.
 
-- private development repositories;
-- internal GDDs or qualification reports;
-- build/deployment tooling intended to remain private;
-- secrets, passwords, tokens or private webhooks;
-- production infrastructure details;
+Private development remains outside this organization.
+
+This repository must never contain:
+
+- private GDDs;
+- qualification reports;
+- internal build/deployment tooling;
+- secrets, tokens, keys or private webhooks;
+- private infrastructure details;
 - unpublished proprietary source code.
 
-Public repositories and releases are added only after explicit approval.
+## Community files
+
+This repository also provides the public organization-wide community baseline:
+
+- [SUPPORT.md](SUPPORT.md)
+- [SECURITY.md](SECURITY.md)
+- [CONTRIBUTING.md](CONTRIBUTING.md)
+- [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+- [LICENSE.md](LICENSE.md)
+- [COPYRIGHT.md](COPYRIGHT.md)
+- [NOTICE.md](NOTICE.md)
+- default issue forms;
+- pull-request template;
+- official Ko-fi funding link.
+
+## Official channels
+
+- GitHub: https://github.com/ncore-framework-official
+- Discord: https://discord.gg/Ey4dn4Cbqj
+- Ko-fi: https://ko-fi.com/ncoreframework
