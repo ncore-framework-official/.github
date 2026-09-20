@@ -1,18 +1,31 @@
-# NCore Framework — Official Public Organization Profile
+# NCore Framework — Official Public GitHub Organization
 
-This repository powers the public profile of **NCore Framework**.
-
-Rendered organization profile:
-
-`profile/README.md`
+This repository contains the default public community and organization-profile files for **NCore Framework**.
 
 Official organization:
 
 https://github.com/ncore-framework-official
 
+## Role of this repository
+
+- `profile/README.md` renders the public organization landing page.
+- `SUPPORT.md` defines the public support route.
+- `SECURITY.md` defines private security-reporting rules.
+- `CONTRIBUTING.md` defines contribution boundaries.
+- `CODE_OF_CONDUCT.md` defines community expectations.
+- `.github/ISSUE_TEMPLATE/` provides consistent issue forms for public repositories.
+- `PULL_REQUEST_TEMPLATE.md` provides a public-safe review checklist.
+- `.github/FUNDING.yml` exposes the official NCore Ko-fi link where GitHub supports it.
+
 ## Public-only rule
 
-This repository and the organization are public by design. They must not contain private development material, internal GDDs, qualification data, secrets, tokens, private infrastructure details or unpublished proprietary source code.
+The organization is public by design. It must not contain:
 
-- Public support: [SUPPORT.md](SUPPORT.md)
-- Security reporting: [SECURITY.md](SECURITY.md)
+- private development repositories;
+- internal GDDs or qualification reports;
+- build/deployment tooling intended to remain private;
+- secrets, passwords, tokens or private webhooks;
+- production infrastructure details;
+- unpublished proprietary source code.
+
+Public repositories and releases are added only after explicit approval.
