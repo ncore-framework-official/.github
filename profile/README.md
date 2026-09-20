@@ -13,7 +13,7 @@
   <a href="https://github.com/ncore-framework-official/ncore-control">
     <img src="https://img.shields.io/badge/NCore_Control-1.0.0-17C0E4?style=for-the-badge" alt="NCore Control 1.0.0">
   </a>
-  <a href="https://github.com/boubeur/ncore-framework/releases/download/control-v1.0.0/NCore-Control-Setup-1.0.0.exe">
+  <a href="https://github.com/ncore-framework-official/ncore-control/releases/download/control-v1.0.0/NCore-Control-Setup-1.0.0.exe">
     <img src="https://img.shields.io/badge/Télécharger-Windows-2F81F7?style=for-the-badge&logo=windows&logoColor=white" alt="Télécharger NCore Control">
   </a>
   <a href="https://discord.gg/Ey4dn4Cbqj">
@@ -42,7 +42,7 @@ Application Windows officielle pour installer et gérer plusieurs serveurs NANOS
 - raccourcis Bureau dédiés ;
 - canal de mise à jour intégré.
 
-**[Page produit](https://github.com/ncore-framework-official/ncore-control)** · **[Release 1.0.0](https://github.com/boubeur/ncore-framework/releases/tag/control-v1.0.0)**
+**[Page produit](https://github.com/ncore-framework-official/ncore-control)** · **[Release 1.0.0](https://github.com/ncore-framework-official/ncore-control/releases/tag/control-v1.0.0)**
 
 </td>
 <td width="50%" valign="top">
