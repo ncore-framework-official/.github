@@ -1,39 +1,37 @@
 name: Bug report
-description: Report a reproducible problem in a public NCore product/package
+description: Report a reproducible problem in a public NCore product or package.
 title: "[Bug] "
 labels:
   - bug
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for reporting a public NCore issue. Do not include secrets, private repository content or exploitable security details.
-  - type: input
+  - type: dropdown
     id: product
     attributes:
       label: Product / package
-      placeholder: NCore Control
+      options:
+        - NCore Control
+        - Other public NCore package
     validations:
       required: true
   - type: input
     id: version
     attributes:
-      label: Public version
-      placeholder: 1.0.0
+      label: Version
+      placeholder: "Example: 1.0.0"
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: OS / NANOS version / relevant platform information.
     validations:
       required: true
   - type: textarea
-    id: problem
+    id: steps
     attributes:
-      label: Problem
-      description: Describe what happens.
-    validations:
-      required: true
-  - type: textarea
-    id: reproduce
-    attributes:
-      label: Reproduction steps
-      description: Provide minimal reproducible steps.
+      label: Steps to reproduce
+      description: Provide clear, minimal and reproducible steps.
     validations:
       required: true
   - type: textarea
@@ -43,21 +41,20 @@ body:
     validations:
       required: true
   - type: textarea
-    id: environment
+    id: actual
     attributes:
-      label: Environment
-      description: Windows/NANOS version and other relevant public environment information.
+      label: Actual behavior
+    validations:
+      required: true
   - type: textarea
     id: logs
     attributes:
       label: Sanitized logs
-      description: Include only necessary logs after removing private data, tokens, endpoints and player information.
+      description: Remove tokens, private addresses, personal data, player data and infrastructure details.
   - type: checkboxes
-    id: confirmation
+    id: safety
     attributes:
       label: Public-safe confirmation
       options:
-        - label: I removed secrets, private NCore information and sensitive player/infrastructure data.
-          required: true
-        - label: This is not an exploitable security report.
+        - label: I removed secrets, private NCore material and sensitive data from this report.
           required: true

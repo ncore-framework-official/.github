@@ -1,67 +1,37 @@
-# Contributing to NCore Framework public repositories
+# Contributing to NCore Framework
 
-Thank you for helping improve the public NCore ecosystem.
+NCore Framework is developed privately and published selectively through the official public organization.
 
-## Public contribution scope
+## Public contributions
 
-Public contributions are welcome only for material already present in an official public repository and only within the scope explicitly exposed by that repository.
+Public bug reports, documentation feedback and feature suggestions are welcome when the relevant repository enables Issues.
 
-Examples that may be appropriate:
+Before opening an issue:
 
-- documentation corrections;
-- reproducible public bug reports;
-- localization corrections where the repository exposes localization publicly;
-- improvements to public examples or public configuration documentation;
-- pull requests explicitly requested by the maintainers.
+- use an official public NCore release or package;
+- identify the affected product/package and version;
+- provide clear reproducible steps when reporting a bug;
+- attach only sanitized logs;
+- search existing issues first.
 
-Do **not** submit:
+## Source-code contributions
 
-- code or files copied from a private NCore repository;
-- internal GDD content;
-- qualification reports;
-- private build or deployment tooling;
-- secrets, tokens, webhooks or private endpoints;
-- third-party proprietary material that you are not authorized to submit;
-- large feature implementations that were not requested for public development.
+NCore repositories may contain proprietary software.
 
-## Before opening an issue
+A public repository does **not** automatically mean that unsolicited source-code pull requests are accepted. Code contributions are accepted only when the repository explicitly states that external contributions are open.
 
-Include:
+Never submit:
 
-- product/package name;
-- public version;
-- operating system / NANOS version when relevant;
-- minimal reproducible steps;
-- sanitized logs only.
+- code copied from FiveM, ESX, QBCore, RedM or another project without a compatible right to do so;
+- leaked or private NCore source code;
+- private GDD content;
+- secrets, tokens, webhooks or infrastructure details;
+- personal or player data.
 
-Security-sensitive reports must follow [SECURITY.md](SECURITY.md).
+## Français
 
-## Pull requests
+Les signalements publics, retours de documentation et propositions de fonctionnalités sont les bienvenus lorsque le dépôt concerné active les Issues.
 
-Before opening a pull request:
+Un dépôt public NCore ne signifie pas automatiquement que les contributions de code externes sont ouvertes. Les pull requests de code ne sont acceptées que lorsque le dépôt l'indique explicitement.
 
-- keep the change focused;
-- explain the public problem being solved;
-- do not mix unrelated formatting or refactoring;
-- verify that no private NCore information is present;
-- respect the repository's applicable license;
-- confirm that you have the right to submit every file included in the change.
-
-NCore maintainers may decline or close contributions that do not fit the public product scope.
-
----
-
-# Contribuer aux dépôts publics NCore Framework
-
-Les contributions publiques concernent uniquement le contenu déjà publié dans les dépôts officiels et le périmètre explicitement ouvert par chaque dépôt.
-
-Sont notamment interdits dans une contribution publique :
-
-- tout fichier provenant d'un dépôt privé NCore ;
-- contenu GDD interne ;
-- rapport de qualification ;
-- outil privé de build/déploiement ;
-- secret, token, webhook ou endpoint privé ;
-- contenu propriétaire tiers sans autorisation.
-
-Les signalements de sécurité suivent obligatoirement [SECURITY.md](SECURITY.md).
+Aucun contenu provenant d'un dépôt privé NCore, aucun secret et aucune donnée sensible ne doit être publié.

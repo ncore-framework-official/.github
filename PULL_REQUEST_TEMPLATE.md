@@ -1,19 +1,16 @@
-## Summary / Résumé
+## Summary
 
-Describe the public change and why it is needed.
+Describe the purpose and scope of this pull request.
 
-## Scope / Périmètre
+## Public-safe check
 
-- [ ] This change affects only public material in this repository.
-- [ ] No private NCore repository content is included.
-- [ ] No GDD, qualification report, secret, token, private endpoint or internal infrastructure detail is included.
-- [ ] I have the right to submit all files in this pull request.
-- [ ] The change respects the repository license and public/private boundary.
+- [ ] This change contains no private NCore GDD, internal tooling, qualification data or unpublished source material.
+- [ ] This change contains no secrets, tokens, webhooks, private endpoints or sensitive data.
+- [ ] Third-party code/assets are used only when their license and origin allow it.
+- [ ] Documentation and user-facing links point to official NCore public channels.
 
 ## Validation
 
-Describe how the change was tested or reviewed.
+Describe the checks or tests performed.
 
-## Related issue
-
-Link an issue when applicable.
+> Note: NCore repositories may be proprietary. Submission of a pull request does not imply that external code contributions are generally accepted.
