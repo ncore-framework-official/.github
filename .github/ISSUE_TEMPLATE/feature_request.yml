@@ -1,0 +1,35 @@
+name: Feature request
+description: Suggest an improvement for an existing public NCore product/package
+title: "[Feature] "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Public feature requests should describe the user need without exposing private NCore architecture or internal development information.
+  - type: input
+    id: product
+    attributes:
+      label: Product / package
+      placeholder: NCore Control
+    validations:
+      required: true
+  - type: textarea
+    id: need
+    attributes:
+      label: User need
+      description: What public problem or workflow should be improved?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Suggested behavior
+      description: Describe the desired public behavior without assuming internal implementation details.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional public context
