@@ -34,6 +34,7 @@ Les dépôts publics officiels, releases et documentations utilisateur sont regr
 - **[NCore Control](https://github.com/ncore-framework-official/ncore-control)** — installation et gestion de plusieurs serveurs NANOS / nanos world.
 - **[NCore Control Releases](https://github.com/ncore-framework-official/ncore-control/releases)** — téléchargements publics officiels.
 - **[Documentation NCore Control](https://github.com/ncore-framework-official/ncore-control#readme)** — installation, multi-serveur, mises à jour, support et sécurité.
+- **[NCore Loading Screen](https://github.com/ncore-framework-official/ncore-loading-screen)** — page produit publique officielle ; aucune release publique annoncée pour le moment.
 - **[Discord officiel](https://discord.gg/Ey4dn4Cbqj)** — communauté, annonces et support public.
 
 > Les autres packages NCore apparaissent ici uniquement lorsqu'une publication publique est officiellement validée.
