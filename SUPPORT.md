@@ -1,32 +1,52 @@
-# NCore Control — Support
+# NCore Framework — Support
 
 ## Français
 
 Pour l'aide publique, les annonces et les échanges avec la communauté NCore :
 
-- Discord officiel : https://discord.gg/Ey4dn4Cbqj
-- Organisation GitHub : https://github.com/ncore-framework-official
-- Page produit NCore Control : https://github.com/ncore-framework-official/ncore-control
+- **Discord officiel :** https://discord.gg/Ey4dn4Cbqj
+- **Organisation GitHub officielle :** https://github.com/ncore-framework-official
+- **NCore Control :** https://github.com/ncore-framework-official/ncore-control
+- **Releases NCore Control :** https://github.com/ncore-framework-official/ncore-control/releases
 
-Avant de signaler un problème :
+Avant de signaler un problème public :
 
-1. vérifiez que vous utilisez une release officielle ;
-2. indiquez la version de NCore Control ;
+1. vérifiez que vous utilisez une version officielle ;
+2. indiquez le produit/package et sa version ;
 3. décrivez les étapes permettant de reproduire le problème ;
-4. ne publiez jamais de mot de passe, token, clé, webhook, adresse privée, donnée joueur ou information d'infrastructure sensible.
+4. joignez uniquement les logs nécessaires et nettoyés de toute donnée sensible ;
+5. vérifiez qu'aucune information privée NCore ou donnée joueur n'est incluse.
 
-Les vulnérabilités exploitables et informations sensibles ne doivent pas être publiées dans une issue publique. Utilisez le Discord officiel pour demander un canal de contact privé.
+Ne publiez jamais :
+
+- mot de passe ;
+- token ou clé API ;
+- webhook privé ;
+- endpoint privé ;
+- adresse ou donnée personnelle non nécessaire ;
+- donnée joueur sensible ;
+- détail d'infrastructure interne ;
+- contenu provenant d'un dépôt privé NCore.
+
+Les vulnérabilités exploitables et informations de sécurité sensibles ne doivent pas être publiées dans une issue publique. Consultez [SECURITY.md](SECURITY.md).
 
 ## English
 
 For public help, announcements and NCore community discussion:
 
-- Official Discord: https://discord.gg/Ey4dn4Cbqj
-- GitHub organization: https://github.com/ncore-framework-official
-- NCore Control product page: https://github.com/ncore-framework-official/ncore-control
+- **Official Discord:** https://discord.gg/Ey4dn4Cbqj
+- **Official GitHub organization:** https://github.com/ncore-framework-official
+- **NCore Control:** https://github.com/ncore-framework-official/ncore-control
+- **NCore Control releases:** https://github.com/ncore-framework-official/ncore-control/releases
 
-Before reporting a problem, verify that you are using an official release, include the NCore Control version and describe reproducible steps.
+Before filing a public issue:
 
-Never publish passwords, tokens, keys, webhooks, private addresses, player data or sensitive infrastructure information.
+1. verify that you are using an official release;
+2. include the product/package name and version;
+3. provide reproducible steps;
+4. attach only the minimum sanitized logs required;
+5. verify that no private NCore material or sensitive player data is included.
 
-Exploitable vulnerabilities and sensitive information must not be posted in a public issue. Use the official Discord to request a private contact channel.
+Never publish passwords, tokens, API keys, private webhooks, private endpoints, sensitive player data, internal infrastructure details or material originating from a private NCore repository.
+
+Security vulnerabilities and sensitive security information must not be reported in a public issue. See [SECURITY.md](SECURITY.md).
