@@ -61,7 +61,7 @@ Cette organisation est **exclusivement publique**. Les dépôts privés de déve
 <summary><strong>NCore Loading Screen — identité visuelle officielle</strong></summary>
 
 <p align="center">
-  <img src="assets/branding/ncore-loading-screen-official-preview.jpg" alt="NCore Loading Screen official visual identity" width="760">
+  <img src="assets/branding/ncore-loading-screen-official.webp" alt="NCore Loading Screen official visual identity" width="900">
 </p>
 
 Ce visuel est publié uniquement comme **identité visuelle officielle**.  
