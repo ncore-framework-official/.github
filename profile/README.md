@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/branding/ncore-framework-logo.jpg" alt="NCore Framework official logo" width="420">
+  <img src="assets/branding/ncore-framework-logo-official.png" alt="NCore Framework official logo" width="420">
 </p>
 
 <h1 align="center">NCore Framework</h1>
